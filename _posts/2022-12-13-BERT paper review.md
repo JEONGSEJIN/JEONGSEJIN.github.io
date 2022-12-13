@@ -112,3 +112,6 @@ References
 - https://arxiv.org/abs/1810.04805
 - https://youtu.be/IwtexRHoWG0
 - https://youtu.be/moCNw4j2Fkw
+
+Study Footprint
+- https://drive.google.com/drive/folders/1zfy6Hgv5bTuUwi6PHwtd0Dee_eZQ296X?usp=sharing
