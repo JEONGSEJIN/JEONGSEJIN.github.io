@@ -36,7 +36,7 @@ github:
   username: JEONGSEJIN           #github_username             # change to your github username
 
 twitter:
-  username: Sejin Jeong            # change to your twitter username
+  username: luyttt4            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -47,6 +47,7 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/luyttt4      # change to your twitter homepage
     - https://github.com/JEONGSEJIN       # change to your github homepage
+    - https://velog.io/@luyttt4
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
