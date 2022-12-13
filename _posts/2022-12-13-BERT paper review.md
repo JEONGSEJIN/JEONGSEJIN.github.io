@@ -10,7 +10,7 @@ tags: [NLP, BERT]
 
 Paper name  
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
-/assets/img/BERT_paper_review/slide1.jpg
+![bert](/assets/img/BERT_paper_review/slide1.jpg)
 
 * * *
 
