@@ -10,103 +10,103 @@ tags: [NLP, BERT]
 
 Paper name  
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
-![bert](/assets/img/BERT_paper_review/slide1.jpg)
+![bert1](/assets/img/BERT_paper_review/slide1.JPG)
 
 * * *
 
-![bert](/assets/img/BERT_paper_review/slide2.jpg)
+![bert2](/assets/img/BERT_paper_review/slide2.JPG)
 
 * * *
 
-![bert](/assets/img/BERT_paper_review/slide3.jpg)
+![bert3](/assets/img/BERT_paper_review/slide3.JPG)
 
 * * *
 
-![bert](/assets/img/BERT_paper_review/slide4.jpg)
+![bert4](/assets/img/BERT_paper_review/slide4.JPG)
 
 * * *
 
-![bert](/assets/img/BERT_paper_review/slide5.jpg)
+![bert5](/assets/img/BERT_paper_review/slide5.JPG)
 
 * * *
 
-![bert](/assets/img/BERT_paper_review/slide6.jpg)
+![bert6](/assets/img/BERT_paper_review/slide6.JPG)
 
 * * *
 
-![bert](/assets/img/BERT_paper_review/slide7.jpg)
+![bert7](/assets/img/BERT_paper_review/slide7.JPG)
 
 * * *
 
-![bert](/assets/img/BERT_paper_review/slide8.jpg)
+![bert8](/assets/img/BERT_paper_review/slide8.JPG)
 
 * * *
 
-![bert](/assets/img/BERT_paper_review/slide9.jpg)
+![bert9](/assets/img/BERT_paper_review/slide9.JPG)
 
 * * *
 
-![bert](/assets/img/BERT_paper_review/slide10.jpg)
+![bert10](/assets/img/BERT_paper_review/slide10.JPG)
 
 * * *
 
-![bert](/assets/img/BERT_paper_review/slide11.jpg)
+![bert11](/assets/img/BERT_paper_review/slide11.JPG)
 
 * * *
 
-![bert](/assets/img/BERT_paper_review/slide12.jpg)
+![bert12](/assets/img/BERT_paper_review/slide12.JPG)
 
 * * *
 
-![bert](/assets/img/BERT_paper_review/slide13.jpg)
+![bert13](/assets/img/BERT_paper_review/slide13.JPG)
 
 * * *
 
-![bert](/assets/img/BERT_paper_review/slide14.jpg)
+![bert14](/assets/img/BERT_paper_review/slide14.JPG)
 
 * * *
 
-![bert](/assets/img/BERT_paper_review/slide15.jpg)
+![bert15](/assets/img/BERT_paper_review/slide15.JPG)
 
 * * *
 
-![bert](/assets/img/BERT_paper_review/slide16.jpg)
+![bert16](/assets/img/BERT_paper_review/slide16.JPG)
 
 * * *
 
-![bert](/assets/img/BERT_paper_review/slide17.jpg)
+![bert17](/assets/img/BERT_paper_review/slide17.JPG)
 
 * * *
 
-![bert](/assets/img/BERT_paper_review/slide18.jpg)
+![bert18](/assets/img/BERT_paper_review/slide18.JPG)
 
 * * *
 
-![bert](/assets/img/BERT_paper_review/slide19.jpg)
+![bert19](/assets/img/BERT_paper_review/slide19.JPG)
 
 * * *
 
-![bert](/assets/img/BERT_paper_review/slide20.jpg)
+![bert20](/assets/img/BERT_paper_review/slide20.JPG)
 
 * * *
 
-![bert](/assets/img/BERT_paper_review/slide21.jpg)
+![bert21](/assets/img/BERT_paper_review/slide21.JPG)
 
 * * *
 
-![bert](/assets/img/BERT_paper_review/slide22.jpg)
+![bert22](/assets/img/BERT_paper_review/slide22.JPG)
 
 * * *
 
-![bert](/assets/img/BERT_paper_review/slide23.jpg)
+![bert23](/assets/img/BERT_paper_review/slide23.JPG)
 
 * * *
 
-![bert](/assets/img/BERT_paper_review/slide24.jpg)
+![bert24](/assets/img/BERT_paper_review/slide24.JPG)
 
 * * *
 
-![bert](/assets/img/BERT_paper_review/slide25.jpg)
+![bert25](/assets/img/BERT_paper_review/slide25.JPG)
 
 References  
 - https://arxiv.org/abs/1810.04805
