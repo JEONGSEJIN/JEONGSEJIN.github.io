@@ -1,8 +1,9 @@
 ---
 title: BERT paper review
-author:
+<!--author:
   name: Sejin Jeong
   link: https://github.com/JEONGSEJIN
+-->
 date: YYYY-MM-DD HH:MM:SS +09:00
 categories: [NLP] # 공부하고, subtag 추가하기!
 tags: [NLP, BERT]
