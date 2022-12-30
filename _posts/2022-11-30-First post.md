@@ -1,4 +1,5 @@
 ---
+published: true
 title: First post!
 date : 2022-11-30 1:23:45 +09:00
 categories: [Diary]
