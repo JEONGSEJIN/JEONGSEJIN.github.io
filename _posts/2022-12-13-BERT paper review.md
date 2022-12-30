@@ -1,6 +1,6 @@
 ---
 title: BERT paper review
-date: YYYY-MM-DD HH:MM:SS +09:00
+date: 2022-12-13 3:32:54 +09:00
 categories: [NLP] # 공부하고, subtag 추가하기!
 tags: [NLP, BERT]
 ---
