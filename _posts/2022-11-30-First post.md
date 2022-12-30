@@ -1,6 +1,6 @@
 ---
 title: First post!
-date : YYYY-MM-DD HH:MM:SS +09:00
+date : 2022-11-30 1:23:45 +09:00
 categories: [Diary]
 tags: [start, introduction]
 ---
