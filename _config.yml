@@ -29,7 +29,7 @@ url: "https://jeongsejin.github.io/" # the base hostname & protocol for your sit
 github_username: JEONGSEJIN
 
 # Build settings
-theme: minima
+theme: jekyll-theme-chirpy # minima
 plugins:
   - jekyll-feed
 
