@@ -33,6 +33,9 @@ theme: jekyll-theme-chirpy # minima
 plugins:
   - jekyll-feed
 
+pagination: 5
+pagination_path: "/page:num/"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
