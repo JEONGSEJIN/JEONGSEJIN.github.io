@@ -1,7 +1,7 @@
 ---
-published: true
+# published: true
 title: First post!
-date : 2022-11-30 1:23:45 +09:00
+date: 2022-11-30 01:23:45 +0900
 categories: [Diary]
 tags: [start, introduction]
 ---
