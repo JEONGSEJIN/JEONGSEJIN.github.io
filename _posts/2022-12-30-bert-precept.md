@@ -1,6 +1,6 @@
 ---
 title: Precept
-date : 2022-12-30 2:43:33 +09:00
+date: 2022-12-30 02:43:33 +0900
 categories: [Diary]
 tags: [precept]
 ---
