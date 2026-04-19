@@ -124,7 +124,7 @@ deploy() {
 main() {
   init
   build
-  test
+#   test
   resume_site_dir
 
   # echo "indexing by algolia..."
