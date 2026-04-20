@@ -4,11 +4,13 @@
 
   Using Chirpy Jekyll Theme
 
-  - [Chirpy Starter](https://github.com/cotes2020/chirpy-starter) ![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)
+</div>
 
-  - [jekyll-theme-chirpy 5.3.2](https://rubygems.org/gems/jekyll-theme-chirpy) ![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)
+- [Chirpy Starter](https://github.com/cotes2020/chirpy-starter) ![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)
+
+- [jekyll-theme-chirpy 5.3.2](https://rubygems.org/gems/jekyll-theme-chirpy) ![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)
   
-  - jekyll-4.3.1
+- jekyll-4.3.1
 
   <!-- 
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
