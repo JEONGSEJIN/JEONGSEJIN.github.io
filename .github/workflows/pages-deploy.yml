@@ -1,29 +1,66 @@
-name: 'Automatic build'
+name: Deploy Jekyll site to Pages
+
 on:
   push:
-    branches:
-      - main
-    paths-ignore:
-      - .gitignore
-      - README.md
-      - LICENSE
+    branches: ["main"]
 
 jobs:
-  continuous-delivery:
-
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-        with:
-          fetch-depth: 0  # for posts's lastmod
+      - uses: actions/checkout@v4
 
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+      - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.1
+          ruby-version: '3.1'
           bundler-cache: true
 
-      - name: Deploy
-        run: bash tools/deploy.sh
+      - name: Build site
+        run: bundle exec jekyll build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
+        
+# name: 'Automatic build'
+# on:
+#   push:
+#     branches:
+#       - main
+#     paths-ignore:
+#       - .gitignore
+#       - README.md
+#       - LICENSE
+
+# jobs:
+#   continuous-delivery:
+
+#     runs-on: ubuntu-latest
+
+#     steps:
+#       - name: Checkout
+#         uses: actions/checkout@v2
+#         with:
+#           fetch-depth: 0  # for posts's lastmod
+
+#       - name: Setup Ruby
+#         uses: ruby/setup-ruby@v1
+#         with:
+#           ruby-version: 3.1
+#           bundler-cache: true
+
+#       - name: Deploy
+#         run: bash tools/deploy.sh
