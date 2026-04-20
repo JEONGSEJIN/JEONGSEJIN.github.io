@@ -2,6 +2,9 @@
 
   # Chirpy Jekyll Theme
 
+  Github Blog README.md
+
+  <!-- 
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
   [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?color=brightgreen)](https://rubygems.org/gems/jekyll-theme-chirpy)
@@ -13,9 +16,11 @@
   [**Live Demo →**](https://cotes2020.github.io/chirpy-demo)
 
   [![Devices Mockup](https://raw.githubusercontent.com/cotes2020/chirpy-images/main/commons/devices-mockup.png)](https://cotes2020.github.io/chirpy-demo)
+  -->
 
 </div>
 
+<!-- 
 ## Features
 
 - Localized Layout
@@ -94,6 +99,7 @@ If you like this theme or find it helpful, please consider sponsoring me, becaus
 [![Ko-fi](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ff5f5f?logo=ko-fi&logoColor=white)](https://ko-fi.com/coteschung)
 [![Wechat Pay](https://img.shields.io/badge/-Tip%20Me%20on%20WeChat-brightgreen?logo=wechat&logoColor=white)][cn-donation]
 [![Alipay](https://img.shields.io/badge/-Tip%20Me%20on%20Alipay-blue?logo=alipay&logoColor=white)][cn-donation]
+-->
 
 ## License
 
