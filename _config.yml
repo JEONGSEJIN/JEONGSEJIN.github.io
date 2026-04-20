@@ -68,10 +68,10 @@ google_analytics:
     proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
     cache_path: # the local PV cache data, friendly to visitors from GFW region
 
-# # indexing at deploy.sh
-# algolia:
-#   application_id: 'RF1LGKCG4X'
-#   index_name: 'blog-files'
+# indexing at deploy.sh
+algolia:
+  application_id: 'RF1LGKCG4X'
+  index_name: 'blog-files'
 
 # Prefer color scheme setting.
 #
@@ -209,8 +209,8 @@ exclude:
   - gulpfile.js
   - node_modules
   - package*.json
-  - docs
-  - rollup.config.js
+  # - docs
+  # - rollup.config.js
 
 jekyll-archives:
   enabled: [categories, tags]
@@ -224,7 +224,7 @@ jekyll-archives:
 # Build settings
 plugins:
   - jemoji
-  - jekyll-feed
+  # - jekyll-feed
 
 
 
