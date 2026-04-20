@@ -1,10 +1,10 @@
-<div align="center">
+<!--<div align="center">-->
 
-  # Github Blog README.md
+# Github Blog README.md
 
-  Using Chirpy Jekyll Theme
+##  Using Chirpy Jekyll Theme
 
-</div>
+<!--</div>-->
 
 - [Chirpy Starter](https://github.com/cotes2020/chirpy-starter) ![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)
 
@@ -26,7 +26,7 @@
   [![Devices Mockup](https://raw.githubusercontent.com/cotes2020/chirpy-images/main/commons/devices-mockup.png)](https://cotes2020.github.io/chirpy-demo)
   -->
 
-</div>
+<!--</div>-->
 
 <!-- 
 ## Features
